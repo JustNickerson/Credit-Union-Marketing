@@ -57,4 +57,4 @@ Unzip each skill and put the folder wherever your agent loads skills (for exampl
 
 Adapted from [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) (MIT). Credit union adaptation by Mark Nickerson. MIT licensed; see [LICENSE](LICENSE).
 
-Questions, or want help setting these up at your credit union? [Connect with me on LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE).
+Questions, or want help setting these up at your credit union? [Connect with me on LinkedIn](https://www.linkedin.com/in/nickersonsmark/).
